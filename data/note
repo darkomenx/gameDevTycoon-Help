@@ -1,0 +1,8 @@
+issue :
+1 - transaction typeorm pour fixtures
+2 - getRepository pour fixtures
+2 - inline JS inject error forbidden
+3 - transitions vue.js declenchement inutile
+4 - Karma + Mocha
+5 - 1e connection ne connait pas les repo mais après oui
+6 - management des assets

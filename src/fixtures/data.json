@@ -1,0 +1,30 @@
+{
+  "public": [
+    {
+      "identifier": "jeunes",
+      "name": "Jeunes"
+    },
+    {
+      "identifier": "tous-publics",
+      "name": "Tous Publics"
+    },
+    {
+      "identifier": "public-averti",
+      "name": "Public Averti"
+    }
+  ],
+  "genre": [
+    {
+      "identifier": "jeunes",
+      "name": "Jeunes"
+    },
+    {
+      "identifier": "tous-publics",
+      "name": "Tous Publics"
+    },
+    {
+      "identifier": "public-averti",
+      "name": "Public Averti"
+    }
+  ]
+}

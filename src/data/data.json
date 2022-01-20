@@ -1,0 +1,112 @@
+[{
+  "genre": {
+    "1": {
+      "id": "action",
+      "name": "Action"
+    },
+    "2": {
+      "id": "rpg",
+      "name": "RPG"
+    },
+    "3": {
+      "id": "strategie",
+      "name": "Strategie"
+    },
+    "4": {
+      "id": "Aventure",
+      "name": "Aventure"
+    },
+    "5": {
+      "id": "simulation",
+      "name": "Simulation"
+    },
+    "6": {
+      "id": "casual",
+      "name": "Casual"
+    }
+  },
+  "platform": {
+    "1": {
+      "id": "gameling",
+      "name": "GameBoy"
+    },
+    "2": {
+      "id": "vena-gear",
+      "name": "game Gear"
+    },
+    "3": {
+      "id": "vena-oasis",
+      "name": "MegaDrive"
+    },
+    "4": {
+      "id": "pc",
+      "name": "PC"
+    },
+    "5": {
+      "id": "master-v",
+      "name": "MasterSystem"
+    },
+    "6": {
+      "id": "tes",
+      "name": "nes"
+    }
+  },
+  "public": {
+    "1": {
+      "id": "jeunes",
+      "name": "Jeunes"
+    },
+    "2": {
+      "id": "tous-publics",
+      "name": "Tous Publics"
+    },
+    "3": {
+      "id": "public-averti",
+      "name": "Public Averti"
+    }
+  },
+  "graphisme": {
+    "1": {
+      "id": "2d-v1",
+      "name": "2D V1"
+    },
+    "2": {
+      "id": "texte",
+      "name": "Texte"
+    }
+  },
+  "theme": {
+    "1" : {
+      "id": "super-heros",
+      "name": "Super Héros"
+    },
+    "2" : {
+      "id": "detective",
+      "name": "Detective"
+    },
+    "3" : {
+      "id": "ninja",
+      "name": "Ninja"
+    },
+    "4" : {
+      "id": "course",
+      "name": "Course"
+    },
+    "5" : {
+      "id": "vocabulaire",
+      "name": "Vocabulaire"
+    },
+    "6" : {
+      "id": "pirates",
+      "name": "Pirates"
+    },
+    "7" : {
+      "id": "loi",
+      "name": "Loi"
+    },
+    "8" : {
+      "id": "ecole",
+      "name": "Ecole"
+    }
+  }
+}]

@@ -1,0 +1,30 @@
+// BUTTON 1
+
+.myButton1
+{
+  box-shadow: 0px 10px 14px -7px #276873;
+  background:linear-gradient(to bottom, #28414a 5%, #0e67ed 100%);
+  background-color:#28414a;
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#28414a', endColorstr='#0e67ed',GradientType=0);
+  border-radius:8px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:0.8em;
+  font-weight:bold;
+  padding:10px 30px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #3d768a;
+}
+.myButton1:hover
+{
+  background:linear-gradient(to bottom, #0e67ed 5%, #28414a 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0e67ed', endColorstr='#28414a',GradientType=0);
+  background-color:#0e67ed;
+}
+.myButton1:active
+{
+  position:relative;
+  top:1px;
+}
